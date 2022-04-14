@@ -33,3 +33,8 @@ make
 # run the project
 ./my_hunter
 ```
+
+And then, you can finally play.
+All you have to do is to shoot with the mouse, the flying dragons
+
+### Enjoy !
